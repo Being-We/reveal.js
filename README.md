@@ -4,8 +4,6 @@ description: the ongoing development of Second Civilization high-level structure
 
 # ABOUT
 
-
-
 {% hint style="warning" %}
 BEWARE: Second Civilization is still in the earliest stages of development, **expect changes** to occur without notice thereof
 {% endhint %}
@@ -51,7 +49,7 @@ awaiting description
 
 {% tabs %}
 {% tab title="developer framework" %}
-awaiting description
+_**the second civilization labs** seek to provide an actionable, participatory and collaborative developer framework in form of ecosystems that allow, enable and serve multi-stakeholder partnerships with transparent access to challenges and opportunities of decisive conseguenze to our planet-wide human civilization_
 
 <table>
   <thead>
@@ -65,27 +63,27 @@ awaiting description
     <tr>
       <td style="text-align:left">
         <p>econance
-          <br />.world</p>
+          <br />deep impact</p>
         <p></p>
         <p>Renewable</p>
-        <p>.Industries</p>
+        <p>Industries</p>
         <p></p>
         <p>Futurefit
-          <br />.Tech</p>
+          <br />Technologies</p>
       </td>
       <td style="text-align:left">
         <p>electrified</p>
-        <p>.network</p>
+        <p>network</p>
         <p></p>
         <p>futurefit
-          <br />.network</p>
+          <br />network</p>
         <p></p>
         <p>The Human
-          <br />Value Chain</p>
+          <br />Value Chain .com</p>
       </td>
       <td style="text-align:left">
         <p>The Human
-          <br />Value Chain</p>
+          <br />Value Chain .org</p>
         <p></p>
         <p>the ethos
           <br />operative system</p>
