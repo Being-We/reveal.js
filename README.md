@@ -104,7 +104,7 @@ awaiting description
 {% tab title="relations platform" %}
 the relations platform provides a modern time ontological foundation for everyone´s _own, shared, mutual development of ways of relating to worldviews, perceptions of reality and views on human being_
 
-The key to a 21st century ontology for _**human & world relations**_ lies in the ability to make distinction between the imagined and the actual. Even though it can sound trivial at first, one may quite soon come to experience that in reality it is not always straightforward simple to tell apart _the imagined_ from **the actual.**
+The key to a 21st century real world ontology lies in the ability to make distinction between the imagined and the actual. Even though it can sound trivial at first, one may quite soon come to experience that in reality it is not always straightforward simple to tell apart _the imagined_ from **the actual.**
 
 ```text
 devnote: CANDIDATES TO EVENTUALLY ALARMING SAMPLES
@@ -116,6 +116,8 @@ devnote: CANDIDATES TO EVENTUALLY ALARMING SAMPLES
 - global automation 
 - from concentraion of power to loss/concentration of agency
 ```
+
+introducing the next chapter in human and world development; _**human & world relations**_ 
 {% endtab %}
 {% endtabs %}
 
@@ -124,6 +126,8 @@ devnote: CANDIDATES TO EVENTUALLY ALARMING SAMPLES
 ![SVG support =\)](http://www.gwoptics.org/research/et/layout/ET_layout_02.svg)
 
 
+
+![javascript embedded into svg - NOT SUPPORTED \(null surprise=\)](http://sozi.wdfiles.com/local--files/presentations/AFM-sozi3.svg)
 
 
 
