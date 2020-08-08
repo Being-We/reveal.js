@@ -28,6 +28,8 @@ NOTE: this gitbook itself makes out as a part of the effort to integrate smoothl
 
 {% embed url="https://honestyroom.gitbook.io/second-civilization/" %}
 
+
+
 ## devmap 00.00
 
 the following is a work in progress that may come to change several times, though right now the aim is to:  both **preserve** the Second Civilization original structure while **adapting** it ****to the _**open collective platform**_  \(and gitbook\) to make it cognitively easy for people to across the board work with items and descriptions intrinsic to different platforms, frameworks, systems and their constituting structures
@@ -169,7 +171,7 @@ introducing the next chapter in human and world development; _**human & world re
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 functionality testing \(to be removed\)
 
-## automagic header links =\)
+## automagic header links =\) <a id="auto-links"></a>
 
 ![SVG support =\)](http://www.gwoptics.org/research/et/layout/ET_layout_02.svg)
 
@@ -186,7 +188,7 @@ images inside tabs
 ever wondered about the Einstein telescope?
 - well here it is
 #thetelescope
-https://honestyroom.gitbook.io/the-second-civilization-theory/#automagic-header-links
+https://honestyroom.gitbook.io/second-civilization#auto-links
 ```
 {% endcode %}
 {% endtab %}
