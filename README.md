@@ -135,7 +135,20 @@ ever wondered about the Einstein telescope?
 https://honestyroom.gitbook.io/the-second-civilization-theory/#automagic-header-links
 ```
 
+{% tabs %}
+{% tab title="First Tab" %}
 
+{% endtab %}
+
+{% tab title="Second Tab" %}
+```text
+ever wondered about the Einstein telescope?
+- well here it is
+#thetelescope
+https://honestyroom.gitbook.io/the-second-civilization-theory/#automagic-header-links
+```
+{% endtab %}
+{% endtabs %}
 
 ![javascript embedded into svg - NOT SUPPORTED \(null surprise=\)](http://sozi.wdfiles.com/local--files/presentations/AFM-sozi3.svg)
 
