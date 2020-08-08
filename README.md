@@ -107,7 +107,8 @@ the relations platform provides a modern time ontological foundation for everyon
 The key to a 21st century real world ontology lies in the ability to make distinction between the imagined and the actual. Even though it can sound trivial at first, one may quite soon come to experience that in reality it is not always straightforward simple to tell apart _the imagined_ from **the actual.**
 
 ```text
-devnote: CANDIDATES TO EVENTUALLY ALARMING SAMPLES
+devnote: 
+CANDIDATE SAMPLES ON POSSIBLY ALARMING DEVELOPMENTS
 - so called "armed conflict between countries" or "war"
 - escalating levels of abstraction (sciences, world systems)
 - global identity crisis 
@@ -121,9 +122,18 @@ introducing the next chapter in human and world development; _**human & world re
 {% endtab %}
 {% endtabs %}
 
+## 
+
 ## automagic header links =\)
 
 ![SVG support =\)](http://www.gwoptics.org/research/et/layout/ET_layout_02.svg)
+
+```text
+ever wondered about the Einstein telescope?
+- well here it is
+#thetelescope
+http://secondcivilization.world/telescope
+```
 
 
 
