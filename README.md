@@ -97,17 +97,37 @@ _**the second civilization labs** seek to provide an actionable, participatory a
 {% endtab %}
 
 {% tab title="the second theory" %}
-
+awaiting description   
+\(hint; you decide\)
 {% endtab %}
 
 {% tab title="relations platform" %}
-awaiting description
+the relations platform provides a modern time ontological foundation for everyone´s _own, shared, mutual development of ways of relating to worldviews, perceptions of reality and views on human being_
 
-|  |  |  |
-| :--- | :--- | :--- |
-|  |  |  |
+The key to a 21st century ontology for _**human & world relations**_ lies in the ability to make distinction between the imagined and the actual. Even though it can sound trivial at first, one may quite soon come to experience that in reality it is not always straightforward simple to tell apart _the imagined_ from **the actual.**
+
+```text
+devnote: CANDIDATES TO EVENTUALLY ALARMING SAMPLES
+- so called "armed conflict between countries" or "war"
+- escalating levels of abstraction (sciences, world systems)
+- global identity crisis 
+- "data is the new oil"
+- adaptive data analytics (e.g. algorithms, "AI")
+- global automation 
+- from concentraion of power to loss/concentration of agency
+```
 {% endtab %}
 {% endtabs %}
+
+## test header
+
+
+
+
+
+
+
+
 
 
 
