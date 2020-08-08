@@ -132,7 +132,7 @@ introducing the next chapter in human and world development; _**human & world re
 ever wondered about the Einstein telescope?
 - well here it is
 #thetelescope
-http://secondcivilization.world/telescope
+https://honestyroom.gitbook.io/the-second-civilization-theory/#automagic-header-links
 ```
 
 
