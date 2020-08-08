@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="142.87498mm"
+   height="142.87498mm"
+   viewBox="0 0 142.87498 142.87498"
+   version="1.1"
+   id="svg927"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="icon-theory.svg">
+  <defs
+     id="defs921" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.77407416"
+     inkscape:cx="1125.2151"
+     inkscape:cy="269.99997"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2040"
+     inkscape:window-height="1118"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata924">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-169.71132,56.611431)">
+    <rect
+       style="fill:#ffc107;fill-opacity:0.01;stroke-width:8.60323;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
+       id="rect1506"
+       width="142.87498"
+       height="142.87498"
+       x="169.71132"
+       y="-56.611431" />
+    <g
+       id="g1572"
+       transform="translate(369.733,3.9179273)">
+      <path
+         d="m 52.885375,170.28362 a 59.720238,59.720238 0 0 1 -84.45717,0 59.720238,59.720238 0 0 1 -2e-6,-84.457165 59.720238,59.720238 0 0 1 84.45717,-3e-6"
+         sodipodi:cx="10.65679"
+         sodipodi:cy="128.05504"
+         sodipodi:rx="59.720238"
+         sodipodi:ry="59.720238"
+         sodipodi:end="5.4977871"
+         sodipodi:start="0.78539816"
+         sodipodi:open="true"
+         sodipodi:arc-type="arc"
+         sodipodi:type="arc"
+         id="path863"
+         style="fill:none;stroke:#343a40;stroke-width:11.2889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+         transform="rotate(90)" />
+      <g
+         id="g905"
+         transform="translate(-35.271312,-142.32302)">
+        <circle
+           transform="rotate(90)"
+           id="circle865"
+           style="fill:#007bff;stroke:#007bff;stroke-width:5.64444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+           cx="154.79092"
+           cy="92.783722"
+           r="30.817165" />
+        <circle
+           transform="rotate(90)"
+           r="5.9505606"
+           cy="92.783722"
+           cx="185.66724"
+           style="fill:#ffffff;stroke:#343a40;stroke-width:2.63631;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+           id="circle867" />
+      </g>
+      <text
+         id="text873-2"
+         y="70.383797"
+         x="-176.79008"
+         style="font-size:16.8442px;line-height:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:5.29167px;dominant-baseline:middle;fill:#343a40;stroke:none;stroke-width:53.9017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#343a40;stroke:none;stroke-width:53.9017"
+           y="70.383797"
+           x="-176.79008"
+           id="tspan871-8"
+           sodipodi:role="line">THEORY</tspan></text>
+    </g>
+    <rect
+       y="-56.611431"
+       x="395.987"
+       height="142.87498"
+       width="142.87498"
+       id="rect838"
+       style="fill:#ffc107;fill-opacity:0.01;stroke-width:8.60323;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000" />
+    <path
+       sodipodi:cx="14.574719"
+       sodipodi:cy="-467.95364"
+       sodipodi:rx="59.720238"
+       sodipodi:ry="59.720238"
+       sodipodi:end="5.4977871"
+       sodipodi:start="0.78539816"
+       sodipodi:open="true"
+       sodipodi:arc-type="arc"
+       sodipodi:type="arc"
+       id="path840"
+       style="fill:none;stroke:#343a40;stroke-width:11.2889;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       transform="rotate(90)"
+       d="m 56.803305,-425.72506 a 59.720238,59.720238 0 0 1 -84.45717,0 59.720238,59.720238 0 0 1 -2e-6,-84.45717 59.720238,59.720238 0 0 1 84.45717,0" />
+    <circle
+       id="circle844"
+       style="fill:#ffffff;stroke:#343a40;stroke-width:2.63631;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       cx="-10.946209"
+       cy="-467.95364"
+       r="5.9505606"
+       transform="rotate(90)" />
+    <text
+       id="text850"
+       y="74.301727"
+       x="416.70935"
+       style="font-size:16.8442px;line-height:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:5.29167px;dominant-baseline:middle;fill:#343a40;stroke:none;stroke-width:53.9017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#343a40;stroke:none;stroke-width:53.9017"
+         y="74.301727"
+         x="416.70935"
+         id="tspan848"
+         sodipodi:role="line">SECOND</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10.0173px;line-height:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold';text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:3.14697px;dominant-baseline:middle;fill:#343a40;stroke:none;stroke-width:53.9017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stop-color:#000000"
+       x="417.01736"
+       y="88.510811"
+       id="text856"><tspan
+         sodipodi:role="line"
+         id="tspan854"
+         x="417.01736"
+         y="88.510811"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#343a40;stroke:none;stroke-width:53.9017">CIVILIZATION</tspan></text>
+    <path
+       transform="rotate(-90)"
+       d="m 5.2748605,489.69803 a 30.751209,30.751209 0 0 1 -43.4887765,0 30.751209,30.751209 0 0 1 -1e-6,-43.48877 30.751209,30.751209 0 0 1 43.4887764,-10e-6"
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#343a40;stroke-width:5.64444;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       id="path840-5"
+       sodipodi:type="arc"
+       sodipodi:arc-type="arc"
+       sodipodi:open="true"
+       sodipodi:start="0.78539816"
+       sodipodi:end="5.4977871"
+       sodipodi:ry="30.751209"
+       sodipodi:rx="30.751209"
+       sodipodi:cy="467.95364"
+       sodipodi:cx="-16.469528" />
+  </g>
+</svg>
