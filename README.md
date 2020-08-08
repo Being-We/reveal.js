@@ -119,7 +119,11 @@ devnote: CANDIDATES TO EVENTUALLY ALARMING SAMPLES
 {% endtab %}
 {% endtabs %}
 
-## test header
+## automagic header links =\)
+
+![SVG support =\)](http://www.gwoptics.org/research/et/layout/ET_layout_02.svg)
+
+
 
 
 
