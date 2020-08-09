@@ -1,5 +1,5 @@
 # Table of contents
 
-* [cC initial devmap](README.md)
-* [participatory economics?](participatory-economics.md)
+* [cC devmap](README.md)
+* [global development spaces](participatory-economics.md)
 

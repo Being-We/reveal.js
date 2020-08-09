@@ -2,13 +2,13 @@
 description: laying out the ongoing development of Second Civilization high-level structure
 ---
 
-# cC initial devmap
+# cC devmap
 
 ## intro
 
 This is the initial iteration 00.00 mapping the current development of Second Civilization high-level structure. Once the structure have been given a first outfolding, this version 00.00 will be reiterated into version 00.01 by the creation of a new gitbook variant. Once the development have reached a stage where these materials start making out some level of public documentation, the idea is to raise the version number to 01.00. This idea on versioning may though come to change at any instance along the way.
 
-`NOTE: on this peice of work, the Second Civilization is abreviated`**`cC`** `( maybe think of it as the civilized Civilization =)`
+`DEVNOTE: on this work, the Second Civilization is abreviated`**`cC`** `( maybe think of it as the civilized Civilization =)`
 
 {% hint style="warning" %}
 BEWARE: Second Civilization is still in the earliest stages of development, **expect changes** to occur without notice thereof
@@ -23,20 +23,24 @@ the objective right now is to create a first overall structure that works smooth
 {% embed url="https://opencollective.com/secondcivilization" %}
 
 {% hint style="info" %}
-NOTE: this gitbook itself makes out as a part of the effort to integrate smoothly with the open collective platform \(which also that makes use of gitbook for it's own platform documentation\)
+NOTE: this gitbook itself makes out part of the effort to integrate smoothly with the [open collective](https://opencollective.com/) platform \(there´s gitbook [alternatives](https://alternativeto.net/software/gitbook/), but right now gitbook is the preferred choice partly because it´s also what [**docs.**opencollective](https://docs.opencollective.com/help/) uses\)
 {% endhint %}
 
-{% embed url="https://honestyroom.gitbook.io/second-civilization/" %}
+{% embed url="https://honestyroom.gitbook.io/second-civilization/" caption="" %}
 
 
 
 ## devmap 00.00
 
+### exploring extended systems potential
+
 the following is a work in progress that may come to change several times, though right now the aim is to:  both **preserve** the Second Civilization original structure while **adapting** it ****to the _**open collective platform**_  \(and gitbook\) to make it cognitively easy for people to across the board work with items and descriptions intrinsic to different platforms, frameworks, systems and their constituting structures
 
 > currently this seems promisingly feasible due the fortunate fit between Second Civilization structural systems models and the open collective terminology on participants and entities \(even the visual language appear rest on a similar basis=\)
 
-### participatory economics?
+
+
+### experimenting with global development spaces
 
 testing new platforms is a great opportunity for seeking out new avenues of own development, whereas here such an first avenue is to explore the possibility-space of employing the open collective platform as a means for the provision of real world systems spaces to cooperative multi-stakeholder partnerships 
 
@@ -86,7 +90,7 @@ awaiting description
 
 
 
-### the systems expanse
+### core systems overview
 
 part representing the original ecosystem by the Second Civilization labs and part, enabling creation, forking and expansion into other new or existing ecosystem structures that take yet one more crosscut focal on participatory human and world development
 

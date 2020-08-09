@@ -1,8 +1,10 @@
 ---
-description: exploring a new high-level dimension to the future of economics
+description: >-
+  exploring a the higher-level dimensions of 21st century human and world
+  development
 ---
 
-# participatory economics?
+# global development spaces
 
 ## devmap 00.00
 
@@ -14,14 +16,12 @@ already got a conceptual notion including its first namespaces, so now explore i
 *  `seek out a disposition for locating the spaces in accordance with above developments, test it and learn from that`
 
 {% tabs %}
-{% tab title="global theory" %}
+{% tab title="about global spaces" %}
 The overall circumstances of a planet-wide human civilization differ from all the territorially demarcated civilizations of the past. This territorial relocation of concerns from separate local order to globally mutual spaces, is in much the trigger in what makes us seek out new planetary-scale working approaches on human and world development. 
 
 As our present time not only harbors the initial age of today´s planet-wide human civilization, but also hosts a growing array of planetary-scale critical challenges across the board of humanity, nature and world systems - a globally working approach need to be of global relevance beyond the geographic sense of it by stretching the meaning of "global" to reach all the way into mental and worldly representations with a capacity to span across all dimensions of _human and world development._
 
-meaning that the mental items as well as as the systems labels and properties which are to carry today's planet-wide civilization into the futures; need to be items and labels that are globally usable across all aspects of our real world systems, of course  including also across the globe in a geographic sense.
-
-
+> meaning that the mental items as well as as the systems labels and properties which are to carry today's planet-wide civilization into the futures; need to be items and labels that are globally usable across all aspects of our real world systems, of course  including also across the globe in a geographic sense.
 
 the inter-linked, inter-connected, interdependent buildup of today's planet-wide human existence makes our real world systems, our human civilization and our lives to gain never before reach for human potential along the world-wide interconnected capacity while at the same ever larger pools of human life become exposed to  the effects when a link breaks down in the global weave 
 
