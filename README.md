@@ -44,13 +44,15 @@ _these spaces may or may not come to reflect and maybe even make out a primary r
 
 {% tabs %}
 {% tab title="global theory" %}
-awaiting description
+the circumstances of a planet-wide human civilization differ from all previous civilizations, making us having to seek out new working approaches on human and world development better suited for today's evermore inter-linked, inter-connected, interdependent human age
 
-FUNDAMENTALS 00.00
+if never before then by now we should have realized we can not make us independent the planet, the nature nor one another, but instead  learn to accept and even take advantage from embracing sincere mentalities, attitudes and structures for coexistence among ourselves as human beings as well as with the very planet, all living and life itself.
 
-the circumstances of a planet-wide human civilization differ from all previous civilizations, making have to seek out new working approaches on human and world development better suited to this second generation of human world
+in this both inescapable and highly beneficial planet-wide circumstance of coexistence, it is here considered that the future of human civilization will grow increasingly dependent on human agreement in all its forms and to every extent.
 
-it is here considered that the future of human civilization will be increasingly dependent on human agreement or not in all forms  and every possible extent
+#### the weakest link
+
+in a world of present time levels of abstraction and complexity, **the weakest link** is never again any one individual human being but instead elements, aspects and phenomenons in the complex bodywhole of abstractions.
 {% endtab %}
 
 {% tab title="problem-space" %}
@@ -81,6 +83,8 @@ awaiting description
 awaiting description
 {% endtab %}
 {% endtabs %}
+
+
 
 ### the systems expanse
 
@@ -195,6 +199,8 @@ https://honestyroom.gitbook.io/second-civilization#auto-links
 {% endtabs %}
 
 ![javascript embedded into svg - NOT SUPPORTED \(null surprise=\)](http://sozi.wdfiles.com/local--files/presentations/AFM-sozi3.svg)
+
+
 
 
 
