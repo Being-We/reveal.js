@@ -60,7 +60,7 @@ in a world of present time levels of abstraction and complexity, **the weakest l
 {% endtab %}
 
 {% tab title="problem-space" %}
-awaiting description
+`DEV: not happy with this focal`
 
 FUNDAMENTALS 00.00
 
@@ -74,17 +74,53 @@ defining the problem in ways that make it optimally possible to either solve it 
 {% endtab %}
 
 {% tab title="conflict-space" %}
-awaiting description
-
-FUNDAMENTALS 00.00
+awaiting notes
 {% endtab %}
 
 {% tab title="possibility-space" %}
-awaiting description
+awaiting notes
 {% endtab %}
 
 {% tab title="opportunity-space" %}
-awaiting description
+awaiting notes
+{% endtab %}
+{% endtabs %}
+
+
+
+### elements of decisive effect on the human future
+
+{% tabs %}
+{% tab title="countries" %}
+#### countries and the future of formal world systems
+{% endtab %}
+
+{% tab title="nations" %}
+#### nations and the human future of human civilization
+{% endtab %}
+
+{% tab title="institutions" %}
+#### institutions and the human future
+{% endtab %}
+
+{% tab title="organizations" %}
+#### the uncertain future of human organization
+{% endtab %}
+
+{% tab title="networks" %}
+#### the future of human connectivity
+{% endtab %}
+
+{% tab title="businesses" %}
+#### fitness of organized human efforts / future of human bisynesse
+{% endtab %}
+
+{% tab title="systems" %}
+awaiting notes
+{% endtab %}
+
+{% tab title="humans" %}
+awaiting notes
 {% endtab %}
 {% endtabs %}
 
